@@ -50,3 +50,5 @@ Caso haja o interesse na modificação dessa placa:
 - Esquema: /PCB_Files/Schematics_Sebix.sch
 - Placa: /PCB_Files/Schematics_Sebix.brd
 
+## Prototipagem de modelo 3D
+
